@@ -59,6 +59,10 @@
   }
 
   &-header {
+    background-color: rgba(12, 12, 12, 0.5);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
     &-title {
       font-size: 70px;
       color: #fff;
